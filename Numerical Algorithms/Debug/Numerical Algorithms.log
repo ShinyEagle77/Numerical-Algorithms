@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Numerical Algorithms.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Numerical Algorithms.cpp
+F:\C++\Source\repos\Numerical Algorithms\Numerical Algorithms.cpp(72,33): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+F:\C++\Source\repos\Numerical Algorithms\Numerical Algorithms.cpp(74,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+F:\C++\Source\repos\Numerical Algorithms\Numerical Algorithms.cpp(76,33): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+F:\C++\Source\repos\Numerical Algorithms\Numerical Algorithms.cpp(78,29): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+F:\C++\Source\repos\Numerical Algorithms\Numerical Algorithms.cpp(114,163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\Source\repos\Numerical Algorithms\Numerical Algorithms.cpp(114,185): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\C++\Source\repos\Numerical Algorithms\Numerical Algorithms.cpp(68): warning C4715: 'determinant': not all control paths return a value
+  Numerical Algorithms.vcxproj -> F:\C++\Source\repos\Numerical Algorithms\Debug\TaskDefinition.exe
