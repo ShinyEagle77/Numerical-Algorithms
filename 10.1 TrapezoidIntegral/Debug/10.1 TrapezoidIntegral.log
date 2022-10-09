@@ -1,0 +1,4 @@
+﻿  10.1 TrapezoidIntegral.cpp
+F:\C++\Source\repos\10.1 TrapezoidIntegral\10.1 TrapezoidIntegral.cpp(80,19): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+F:\C++\Source\repos\10.1 TrapezoidIntegral\10.1 TrapezoidIntegral.cpp(140,21): warning C4018: '<': signed/unsigned mismatch
+  10.1 TrapezoidIntegral.vcxproj -> F:\C++\Source\repos\Numerical Algorithms\Debug\10.1 TrapezoidIntegral.exe

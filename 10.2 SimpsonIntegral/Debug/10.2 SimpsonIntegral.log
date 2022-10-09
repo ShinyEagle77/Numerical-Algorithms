@@ -1,0 +1,5 @@
+﻿  10.2 SimpsonIntegral.cpp
+F:\C++\Source\repos\10.2 SimpsonIntegral\10.2 SimpsonIntegral.cpp(44,19): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+F:\C++\Source\repos\10.2 SimpsonIntegral\10.2 SimpsonIntegral.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+F:\C++\Source\repos\10.2 SimpsonIntegral\10.2 SimpsonIntegral.cpp(119,21): warning C4018: '<': signed/unsigned mismatch
+  10.2 SimpsonIntegral.vcxproj -> F:\C++\Source\repos\Numerical Algorithms\Debug\10.2 SimpsonIntegral.exe
