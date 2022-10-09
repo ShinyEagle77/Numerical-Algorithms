@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (07 Cubic Splijne.vcxproj, 7 Cubic Splijne.vcxproj, Cubic Splijne.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Cubic Splijne.cpp
+  Cubic Splijne.vcxproj -> F:\C++\Source\repos\Numerical Algorithms\Debug\07 Cubic Splijne !!.exe
