@@ -1,0 +1,4 @@
+﻿  12 BoundaryTask.cpp
+F:\C++\Source\repos\12 BoundaryTask\12 BoundaryTask.cpp(65,26): warning C4018: '<': signed/unsigned mismatch
+F:\C++\Source\repos\12 BoundaryTask\12 BoundaryTask.cpp(67,30): warning C4018: '<': signed/unsigned mismatch
+  12 BoundaryTask.vcxproj -> F:\C++\Source\repos\Numerical Algorithms\Debug\12 BoundaryTask.exe
